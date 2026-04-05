@@ -1,16 +1,15 @@
-## Hi there 👋
+## HappyOnigiri
 
-<!--
-**HappyOnigiri/HappyOnigiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+「思いつきドリブン開発」で、面白そう・便利そうなものを作る個人開発者です。
 
-Here are some ideas to get you started:
+### Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Name | Description | Link |
+|------|-------------|------|
+| AIちゃん | AIを一切使わずに「AIキャラ」を作れるサービス | [ai-chan.app](https://ai-chan.app) |
+| ComfyUI-Meld | ComfyUI向け画像管理・検索・系譜追跡拡張 | [GitHub](https://github.com/HappyOnigiri/ComfyUI-Meld) |
+| PixelRefiner | AI生成ドット絵を素材・アイコン品質に変換 | [pixel-refiner.app](https://www.pixel-refiner.app/) |
+
+### Links
+
+[Profile](https://happy-onigiri.dev/) / [X](https://x.com/H_OnigiriWorks) / [Zenn](https://zenn.dev/happy_onigiri) / [note](https://note.com/happy_onigiri)
