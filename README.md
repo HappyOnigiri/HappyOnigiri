@@ -7,6 +7,7 @@
 | Name | Description | Link |
 |------|-------------|------|
 | AIちゃん | AIを一切使わずに「AIキャラ」を作れるサービス | [ai-chan.app](https://ai-chan.app) |
+| Refix | CIエラー解消からマージまでPRプロセスを自動化 | [GitHub](https://github.com/HappyOnigiri/Refix) |
 | ComfyUI-Meld | ComfyUI向け画像管理・検索・系譜追跡拡張 | [GitHub](https://github.com/HappyOnigiri/ComfyUI-Meld) |
 | PixelRefiner | AI生成ドット絵を素材・アイコン品質に変換 | [pixel-refiner.app](https://www.pixel-refiner.app/) |
 
