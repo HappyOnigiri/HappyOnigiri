@@ -42,4 +42,4 @@ AI生成ドット絵を素材品質に仕上げるツール『Pixel Refiner』
 
 ### Links
 
-[Profile](https://happy-onigiri.dev/) / [X](https://x.com/H_OnigiriWorks) / [Zenn](https://zenn.dev/happy_onigiri) / [note](https://note.com/happy_onigiri)
+[Profile](https://happy-onigiri.dev/) / [X](https://x.com/HappyOnigiri_W) / [Zenn](https://zenn.dev/happy_onigiri) / [note](https://note.com/happy_onigiri)
