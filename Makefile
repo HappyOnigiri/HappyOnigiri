@@ -1,4 +1,4 @@
-.PHONY: repomix repomix-full setup sync-rule ci
+.PHONY: repomix repomix-full
 
 REPOMIX_DIR := tmp/repomix
 
@@ -9,10 +9,3 @@ repomix: repomix-full
 repomix-full:
 	mkdir -p $(REPOMIX_DIR)
 	pnpm dlx repomix --output $(REPOMIX_DIR)/repomix-full.xml
-
-setup: sync-rule
-
-sync-rule:
-	curl -fsSL https://raw.githubusercontent.com/HappyOnigiri/ShareSettings/main/SyncRule/run.sh | bash
-
-ci: sync-rule

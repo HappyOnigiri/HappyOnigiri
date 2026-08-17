@@ -59,9 +59,6 @@ tmp
 # Supabase CLI cache
 supabase/.temp/
 
-# AI Rules
-/AGENTS.md
-/CLAUDE.md
 /.cursor
 /.agent
 /.claude
